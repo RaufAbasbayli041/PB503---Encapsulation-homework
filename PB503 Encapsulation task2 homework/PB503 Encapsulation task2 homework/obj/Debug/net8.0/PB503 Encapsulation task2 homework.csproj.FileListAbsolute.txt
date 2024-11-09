@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\bin\Debug\net8.0\PB503 Encapsulation task2 homework.exe
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\bin\Debug\net8.0\PB503 Encapsulation task2 homework.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\bin\Debug\net8.0\PB503 Encapsulation task2 homework.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\bin\Debug\net8.0\PB503 Encapsulation task2 homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\bin\Debug\net8.0\PB503 Encapsulation task2 homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\PB503 Encapsulation task2 homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\PB503 Encapsulation task2 homework.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\PB503 Encapsulation task2 homework.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\PB503 Encapsulation task2 homework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\PB503 Encapsulation task2 homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\refint\PB503 Encapsulation task2 homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\PB503 Encapsulation task2 homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\PB503 Encapsulation task2 homework.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\08.11.2024\PB503 Encapsulation task2 homework\PB503 Encapsulation task2 homework\obj\Debug\net8.0\ref\PB503 Encapsulation task2 homework.dll
